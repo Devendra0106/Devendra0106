@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there👋, I'm Devendra
-A passionate Web/Frontend developer
-- 🔭 I’m currently working on Java and Web Development(HTML, CSS, JS, Node.js, Express.js)
-- 🌱 I’m currently learning React
+Passionate about Web Developement
+- 🔭 I’m currently working on Java and Web Development(HTML, CSS, JS, Node.js, Express.js, MongoDB)
+- 🌱 I’m currently exploring React.js
 - 📫 How to reach me: devendramorankar@gmail.com
-- 😄 Pronouns: Enthusiastic Programmer | Fast Learner | Passionate Techie
+- 😄 Pronouns: Passionate Programmer | Quick Learner | Enthusiastic Techie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
