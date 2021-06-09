@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## Hi there👋, I'm Devendra
 Passionate about Web Developement
-- 🔭 I’m currently working on Java and Web Development(HTML, CSS, JS, Node.js, Express.js, MongoDB)
-- 🌱 I’m currently exploring React.js
+- 🔭 I’m currently working on Java and Web Development(HTML, CSS, JS, React.js Node.js, Express.js, MongoDB)
+- 🌱 I’m currently exploring Redux and Next.js
 - 📫 How to reach me: devendramorankar@gmail.com
 - 😄 Pronouns: Passionate Programmer | Quick Learner | Enthusiastic Techie
 
