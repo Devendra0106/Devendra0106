@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Devendra Morankar</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<img align="right" alt="coding-gif" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
+<img align="right" alt="coding-gif" width="380" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 - 🔭 Working on **React.js, JavaScript, TypeScript, Redux, Node, Express, MongoDB**
