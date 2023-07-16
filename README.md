@@ -1,20 +1,17 @@
+![logo](https://github.com/Devendra0106/Devendra0106/blob/main/Black%20and%20Blue%20Abstract%20LinkedIn%20banner.png)
 <h1 align="center">Hi 👋, I'm Devendra Morankar</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 <img align="right" alt="coding-gif" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
 
-- 🔭 I’m currently working on **React.js, JavaScript, TypeScript**
+- 🔭 Working on **React.js, JavaScript, TypeScript, Redux, Node, Express, MongoDB**
 
-- 🌱 I’m currently learning **React Native & Next.js**
+- 🌱 Exploring **React Native & Next.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-devendra.web.app/](https://portfolio-devendra.web.app/)
+- 👨‍💻 Look out my projects *[devendra-portfolio](https://portfolio-devendra.web.app/)*
 
-- 💬 Ask me about **React, Redux, JavaScript, TypeScript**
-
-- 📫 How to reach me *devendramorankar@gmail.com*
-
-- ⚡ 🏏
+- 📫 Reach out *devendramorankar@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
