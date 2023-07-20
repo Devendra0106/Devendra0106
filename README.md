@@ -11,7 +11,7 @@
 
 - 👨‍💻 Look out my projects *[devendra-portfolio](https://portfolio-devendra.web.app/)*
 
-- 📫 Reach out *devendramorankar@gmail.com*
+- 📫 Reach out to me *devendramorankar@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
